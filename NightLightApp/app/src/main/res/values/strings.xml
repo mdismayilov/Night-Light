@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NightLight</string>
+    <string name="other_apps">Other Apps</string>
+    <string name="share">Share</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="color">Color</string>
+    <string name="banner_ad">ca-app-pub-3531666375863646/7018820838</string>
+    <string name="interstitial_ad">ca-app-pub-3531666375863646/8144200243</string>
+</resources>
